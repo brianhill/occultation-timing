@@ -5,6 +5,7 @@
 ## Equipment
 
 * [Plate scale calculator](RASAPlateScaleCalculator.numbers.pdf)
+* [ZWO ASI Camera Quick Guide](https://astronomy-imaging-camera.com/manuals/QuickGuide.pdf)
 
 ## Do we have a shot at (776) Berbericia occulting TYC 1881-01156-1
 
@@ -32,6 +33,6 @@
 * TheSkyX may know&mdash;it's in the right spot, but not cross-referenced to TYC 1881-01156-1&mdash;this star as UCAC4 575:26069 (provided it has the TheSky Databases module).
 * SIMBAD doesn't know it by UCAC4 575:26069, but using identifier UCAC4 575-026069, VizieR knows it.
 
-Radius 15' Flipped Horizontal finder chart:
+Diameter 15' Flipped Horizontal finder chart:
 
-<img src="./Radius15-FlippedHorizontal.png" width="100%" />
+<img src="./Diameter15Minute-FlippedHorizontal.png" width="100%" />
