@@ -25,5 +25,9 @@
 * Duration (max): 14s
 * Coordinates (J2000.0): 06h 15m 05s +24&deg; 52' 28"
 * [https://simbad.cds.unistra.fr/simbad/sim-id?Ident=TYC+1881-01156-1&NbIdent=1&Radius=15&Radius.unit=arcmin&submit=submit+id](SIMBAD query for TYC 1881-01156-1)
-* TheSkyX may (it's in the right spot, but not cross-referenced to TYC 1881-01156-1) knows this star as UCAC4 575:26069 (provided it has the TheSky Databases module.
+* TheSkyX may know (it's in the right spot, but not cross-referenced to TYC 1881-01156-1) this star as UCAC4 575:26069 (provided it has the TheSky Databases module).
 * SIMBAD doesn't know it by UCAC4 575:26069, but using identifier UCAC4 575-026069, VizieR knows it.
+
+Radius 15' Flipped Horizontal finder chart:
+
+<img src="./Radius15-FlippedHorizontal.png" width="100%" />
