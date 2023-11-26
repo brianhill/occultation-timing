@@ -2,7 +2,9 @@
 
 *Trying our hands at occultation timing*
 
-## 
+## Equipment
+
+* [Plate scale calculator](RASAPlateScaleCalculator.numbers.pdf)
 
 ## Do we have a shot at (776) Berbericia occulting TYC 1881-01156-1
 
@@ -21,7 +23,7 @@
 
 ## Details for Occultation
 
-* [(776) Berbericia occults TYC 1881-01156-1)](https://www.asteroidoccultation.com/2023_11/1126_776_82730_Map.gif)
+* [(776) Berbericia occults TYC 1881-01156-1](https://www.asteroidoccultation.com/2023_11/1126_776_82730_Map.gif)
 * Time (UT): 10:25
 * Local time (MST): 3:25am
 * Duration (max): 14s
